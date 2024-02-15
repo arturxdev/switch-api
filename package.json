@@ -1,0 +1,16 @@
+{
+  "name": "switch-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generate": "drizzle-kit generate:pg"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.29.3",
+    "supabase": "^1.142.2"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.20.14"
+  }
+}

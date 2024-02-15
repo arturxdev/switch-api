@@ -1,0 +1,1 @@
+ALTER TABLE "mission" RENAME COLUMN "promotionalCode" TO "code";

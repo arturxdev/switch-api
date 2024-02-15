@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707939606973,
+      "tag": "0000_long_triathlon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1708004563778,
+      "tag": "0001_bored_the_liberteens",
+      "breakpoints": true
+    }
+  ]
+}
